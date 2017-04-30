@@ -15,6 +15,7 @@ An initial alpha release is planned by 12/1/17.
 <li>Login system.</li>
 <li>Basic user-access rights system with access rights differing between admin/host/participant.</li>
 </ol>
+
 # Planned for future releases, but not currently being worked on:
 <ol>
 <li>Variable video compression and quality based on each invidual participants Internet speed.</li>
